@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CodeCockのBlog</title>
+  
+  <subtitle>不是程序猿，请叫我CodeCock！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-17T10:19:52.039Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>纪尹钦</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>总得写点什么</title>
+    <link href="http://yoursite.com/2019/01/17/%E6%80%BB%E5%BE%97%E5%86%99%E4%BA%9B%E4%BB%80%E4%B9%88/"/>
+    <id>http://yoursite.com/2019/01/17/总得写些什么/</id>
+    <published>2019-01-17T10:08:47.000Z</published>
+    <updated>2019-01-17T10:19:52.039Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;其实，我根本没尽全力做过一件事&quot;&gt;&lt;a href=&quot;#其实，我根本没尽全力做过一件事&quot; class=&quot;headerlink&quot; title=&quot;其实，我根本没尽全力做过一件事&quot;&gt;&lt;/a&gt;其实，我根本没尽全力做过一件事&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&amp;nbs
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/01/16/hello-world/"/>
+    <id>http://yoursite.com/2019/01/16/hello-world/</id>
+    <published>2019-01-16T12:45:10.982Z</published>
+    <updated>2019-01-16T12:45:10.982Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
