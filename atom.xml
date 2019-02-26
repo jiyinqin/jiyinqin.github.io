@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-17T10:19:52.039Z</updated>
+  <updated>2019-02-26T01:24:32.832Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java之浅谈万物皆对象(1)</title>
+    <link href="http://yoursite.com/2019/02/26/Java%E4%B9%8B%E6%B5%85%E8%B0%88%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1-1/"/>
+    <id>http://yoursite.com/2019/02/26/Java之浅谈万物皆对象-1/</id>
+    <published>2019-02-26T01:04:58.000Z</published>
+    <updated>2019-02-26T01:24:32.832Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&amp;emsp;&amp;emsp;“如果我们说另一种不同的语言，那么我们就会发觉一个有些不同的世界。”&lt;br&gt;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;em
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>总得写点什么</title>
