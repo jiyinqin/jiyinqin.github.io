@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-02T16:28:44.317Z</updated>
+  <updated>2019-03-03T10:05:36.734Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java之浅谈万物皆对象(2)</title>
+    <link href="http://yoursite.com/2019/03/03/Java%E4%B9%8B%E6%B5%85%E8%B0%88%E4%B8%87%E7%89%A9%E7%9A%86%E5%AF%B9%E8%B1%A1%EF%BC%882%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/03/03/Java之浅谈万物皆对象（2）/</id>
+    <published>2019-03-03T09:56:12.000Z</published>
+    <updated>2019-03-03T10:05:36.734Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;什么是对象？&quot;&gt;&lt;a href=&quot;#什么是对象？&quot; class=&quot;headerlink&quot; title=&quot;什么是对象？&quot;&gt;&lt;/a&gt;什么是对象？&lt;/h1&gt;&lt;p&gt;&amp;emsp;&amp;emsp;对象（Object）可以看作一种数据管理的方式。我们可以把对象理解为内存中的一个内存
+      
+    
+    </summary>
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>你上次真正开心是什么时候？</title>
