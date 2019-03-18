@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-03-03T10:05:36.734Z</updated>
+  <updated>2019-03-18T02:27:44.321Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SPSS安装后无法启动问题及解决方案</title>
+    <link href="http://yoursite.com/2019/03/18/SPSS%E5%AE%89%E8%A3%85%E5%90%8E%E6%97%A0%E6%B3%95%E5%90%AF%E5%8A%A8%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2019/03/18/SPSS安装后无法启动问题及解决方法/</id>
+    <published>2019-03-18T01:59:35.000Z</published>
+    <updated>2019-03-18T02:27:44.321Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h1&gt;&lt;p&gt;&amp;emsp;&amp;emsp;这两天CodeCock心血来潮下载了一个CPSS想试一试做点简单的数据分析，没想到卡在了安装SPSS
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="SPSS" scheme="http://yoursite.com/tags/SPSS/"/>
+    
+  </entry>
   
   <entry>
     <title>Java之浅谈万物皆对象(2)</title>
